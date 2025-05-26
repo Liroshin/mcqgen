@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-
 import os
 import json
 import traceback
@@ -84,5 +81,4 @@ with st.form("user_inputs"):
     
 
 
-=======
->>>>>>> b605f7dd07863130a47e437a2eea72b8f0dc9ae2
+
